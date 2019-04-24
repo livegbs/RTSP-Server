@@ -1,7 +1,11 @@
 ## 介绍
-[ **LiveNVR在线演示入口** ](http://nvr.liveqing.com) [ **在线接口文档** ](http://nvr.liveqing.com/apidoc/)
+**LiveNVR下载地址 : ** [ https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVR](https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVR) 
 
-[ **利用LiveNVS可以集中化管理LiveNVR** ](https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVS-v1.0)
+**LiveNVR在线演示入口 : **[ http://nvr.liveqing.com ](http://nvr.liveqing.com) 
+
+**在线接口文档 : ** [ http://nvr.liveqing.com/apidoc/](http://nvr.liveqing.com/apidoc/) 
+
+**利用LiveNVS可以集中化管理LiveNVR : ** [ https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVS-v1.0](https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVS-v1.0)
 
 LiveNVR安防流媒体服务，将传统安防监控设备互联化，通过分发不同流的能力，为互联网用户提供无插件直播。
 
