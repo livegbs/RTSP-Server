@@ -1,17 +1,19 @@
 ## 介绍
-**LiveNVR下载地址 : ** [ https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVR](https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVR) 
+**LiveNVR下载地址 : ** [https://www.liveqing.com/docs/download/LiveNVR.html](https://www.liveqing.com/docs/download/LiveNVR.html) 
 
 **LiveNVR在线演示入口 : **[ http://nvr.liveqing.com ](http://nvr.liveqing.com) 
 
 **在线接口文档 : ** [ http://nvr.liveqing.com/apidoc/](http://nvr.liveqing.com/apidoc/) 
 
-**利用LiveNVS可以集中化管理LiveNVR : ** [ https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVS-v1.0](https://gitee.com/liveqing/ReleaseVersion/releases/LiveNVS-v1.0)
+**利用LiveNVS可以集中化管理LiveNVR : ** [https://www.liveqing.com/docs/download/LiveNVS.html](https://www.liveqing.com/docs/download/LiveNVS.html)
 
 LiveNVR安防流媒体服务，将传统安防监控设备互联化，通过分发不同流的能力，为互联网用户提供无插件直播。
 
 - 支持RTSP稳定拉流接入
 - 支持Onvif协议接入
-- 支持RTMP/HLS/HTTP-FLV分发
+- 支持海康大华天地伟业等SDK接入
+- 支持WebRTC/RTSP/RTMP/HLS/HTTP-FLV分发
+- 支持非标转国标GB28181输出
 - 支持录像、回放
 - 支持权限控制等操作
 - 支持快照获取
